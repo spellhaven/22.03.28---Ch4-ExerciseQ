@@ -28,6 +28,7 @@ public class IPTV extends ColorTV{ // 이러면 TV와 얘의 아들인 ColorTV 둘 다 상속
 		// 바로 다음 라인에 super.Printproperty(); 하셨다. 생각해 보니까 진짜 이래도 되네요?
 		
 
+		// 왜 push 않되냐
 	}
 	
 	
